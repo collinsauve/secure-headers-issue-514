@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nio4r (2.7.1)
+    puma (6.4.2)
+      nio4r (~> 2.0)
+    rack (3.0.10)
+    secure_headers (6.5.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  puma (~> 6.4)
+  rack (~> 3.0)
+  secure_headers (~> 6.5)
+
+BUNDLED WITH
+   2.5.3
